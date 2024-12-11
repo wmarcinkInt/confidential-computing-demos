@@ -7,10 +7,10 @@ The examples also includes the necessary Makefile and a template for generating 
 ## Prerequisites
 
 - A (virtual) machine supporting Intel SGX.
-- Ubuntu (>= 22.04) is used as operating system on the host.
+- Ubuntu (>= 24.04) is used as operating system on the host.
 - Gramine is installed on the machine ([guide](https://gramine.readthedocs.io/en/stable/installation.html#install-gramine-packages)).
 - Python 3 is installed on the machine:
-    - Ubuntu 22.04: `sudo apt install python3`
+    - Ubuntu 24.04: `sudo apt install python3`
 
 
 ## Building

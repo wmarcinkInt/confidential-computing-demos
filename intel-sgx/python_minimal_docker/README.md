@@ -7,7 +7,7 @@ The examples also includes the necessary Makefile and a template for generating 
 ## Prerequisites
 
 - A (virtual) machine supporting Intel SGX.
-- Ubuntu (>= 22.04) is used as operating system on the host.
+- Ubuntu (>= 24.04) is used as operating system on the host.
 - Docker is installed on the machine ([guide](https://docs.docker.com/engine/install/ubuntu/)).
 
 

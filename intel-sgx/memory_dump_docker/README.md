@@ -7,10 +7,10 @@ For the Gramine protected container, the example also includes the necessary Mak
 ## Prerequisites
 
 - A (virtual) machine supporting Intel SGX.
-- Ubuntu (>= 22.04) is used as operating system on the host.
+- Ubuntu (>= 24.04) is used as operating system on the host.
 - Docker is installed on the machine ([guide](https://docs.docker.com/engine/install/ubuntu/)).
 - `gcore` is installed on the machine:
-  - Ubuntu 22.04: `sudo apt install gdb`
+  - Ubuntu 24.04: `sudo apt install gdb`
 
 
 ## Building
